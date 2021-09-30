@@ -1,1 +1,1 @@
-# bugraweb1.github.io
+# bugra.github.io
